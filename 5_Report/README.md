@@ -66,4 +66,9 @@ LR_02	Button pressed second time	1 Hz speed - Blue, Green Orange alternative	Imp
 LR_03	Button pressed third time	4 Hz speed - Blue, Green Orange alternative	Implemented
 LR_04	Button pressed fourth time	8 Hz speed - Blue, Green Orange alternative	Implemented
 LR_05	Button pressed again for two seconds	Turn Off all LEDs	Implemented
+## TEST CASES and Corresponding Output
+# High Level Test Cases
+![LOW LEVEL](https://user-images.githubusercontent.com/97964755/168271710-12874894-19d4-41a6-9db0-56a56886051a.png)
+# HIGH LEVEL TEST CASES
+![LOW LEVEL 2](https://user-images.githubusercontent.com/97964755/168271753-057ba5fd-421f-4328-8534-415ef8092cd7.png)
 
